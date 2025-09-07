@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172715354719",
+    "project_id": "projektni-menadzer",
+    "storage_bucket": "projektni-menadzer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172715354719:android:6f6cf1143a9bd85620c9ea",
+        "android_client_info": {
+          "package_name": "com.example.projektni_menadzer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHqwF3_m48KDytZqqSVMcnLr1zWcNJoBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
